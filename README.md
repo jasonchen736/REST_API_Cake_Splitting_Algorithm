@@ -8,10 +8,10 @@ It uses the Cerberus package for simple validation of input, and is persisted to
 
 # Requirements and Installation
 
-Python 3.7.2
+Python 3.7.2 
 Django 3.0
 
-(virtual env)
-pip install -r requirements.txt
-python manage.py migrate
+(virtual env) 
+pip install -r requirements.txt 
+python manage.py migrate 
 python manage.py runserver
