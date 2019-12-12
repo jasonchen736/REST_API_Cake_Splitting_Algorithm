@@ -1,6 +1,6 @@
 # REST API serving a cake splitting algorithm
 
-This API is a RESTful CRUD to server an algorithm designed to identify the smallest repeating sequence in a string.
+This API is a RESTful CRUD to serve an algorithm designed to identify the smallest repeating sequence in a string.
 
 Ex: for string "ababab", the smallest repeating sequence is "ab"
 
